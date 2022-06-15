@@ -1,6 +1,12 @@
 # ExpenseTracker-for-SwiftUI
 With ExpenseTracker you can easily manage and record your expenses!
 
+## Features
+* Add and mange your own expenses
+* See your expenses logs
+* Sort your expenses logs
+* Show the chart of your expenses
+* Chart your expenses like entertainment, food or home utilities expenses
 
 ## Installation ##
 * Git and clone <br/>
